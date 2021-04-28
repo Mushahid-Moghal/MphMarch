@@ -1,9 +1,14 @@
+nes (22 sloc) 315 Bytes
 # Compiled class file
 *.class
 
 # Log file
 *.log
 
+.settings/
+.bin/
+.classpath
+.project
 # BlueJ files
 *.ctxt
 
